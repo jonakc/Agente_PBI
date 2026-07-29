@@ -1,0 +1,2 @@
+El unico proposito de este archivo es que exista la carpeta "datasetLoc".
+Dentro de la carpeta "datasetLoc" debe ir el dataset que el usuario otorgue a la IA, para que el proyecto este constantemente conectado a este dataset.
